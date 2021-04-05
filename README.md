@@ -2,6 +2,9 @@
 - 🔭 I’m currently studying in Sogang University, Korea.
 - 🌱 I’m currently learning Economics, Computer science.
 
+
+[![jaenny's github stats](https://github-readme-stats.vercel.app/api?username=jaenny)]
+
 <!--
 **jaenny/jaenny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
