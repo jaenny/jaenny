@@ -4,7 +4,7 @@
 
 
 
-[![jaenny's github stats](https://github-readme-stats.vercel.app/api?username=jaenny)]
+![jaenny's github stats](https://github-readme-stats.vercel.app/api?username=jaenny)
 
 ### 📫 How to reach me
 - mail : hongryeon_21@naver.com
