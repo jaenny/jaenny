@@ -3,7 +3,13 @@
 - 🌱 I’m currently learning Economics, Computer science.
 
 
+
 [![jaenny's github stats](https://github-readme-stats.vercel.app/api?username=jaenny)]
+
+### 📫 How to reach me
+- mail : hongryeon_21@naver.com
+- velog : https://velog.io/@jaenny
+- instagram : @jae.__.nny
 
 <!--
 **jaenny/jaenny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
