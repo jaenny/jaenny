@@ -14,7 +14,6 @@
 ### ⚡ Projects I've involved
 - SeeYa! https://musicalseeya.com/
 - Sogang Likelion Recruiting Website
-- 같이 할래? 
 
 
 ### 😄 I have worked in...
@@ -27,10 +26,10 @@
 - instagram : @jae.__.nny
 
 
-### 💬 Here's my portfolio
+<!-- ### 💬 Here's my portfolio
 - https://www.notion.so/likelionjs/8f208ce03aa34829a3f5bcc80a27bdba
 
-
+ -->
 
 <!--
 **jaenny/jaenny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
