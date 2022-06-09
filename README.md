@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Economics, Computer science.
 - 🦁 I'm a member of Likelion, Sogang. ![8th](https://likelion-badge.herokuapp.com/api/likelion_shield_badge?generation=8)
 
-![jaenny's github stats](https://github-readme-stats.vercel.app/api?username=jaenny)
+<!-- ![jaenny's github stats](https://github-readme-stats.vercel.app/api?username=jaenny) -->
 
 
 ### ✨ Tech Stack
