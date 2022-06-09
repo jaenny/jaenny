@@ -16,14 +16,7 @@
 - Sogang Likelion Recruiting Website
 
 
-### 😄 I have worked in...
-- **Actbase** as a Frontend Intern from 2021.07-2021.08
-
-
-### 📫 How to reach me
-- mail : hongryeon_21@naver.com
-- velog : https://velog.io/@jaenny
-- instagram : @jae.__.nny
+### 💬 <SeeYa!> project is private. Sorry.
 
 
 <!-- ### 💬 Here's my portfolio
