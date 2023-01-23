@@ -2,7 +2,7 @@
 ### Hi there, I'm jaenny 👋
 - 👩🏻‍💻 I'm working in Naver-Financial as a front-end developer.
 - 🔭 I studied in Sogang University, Korea.
-- 🦁 I'm a member of Likelion, Sogang. ![8th](https://likelion-badge.herokuapp.com/api/likelion_shield_badge?generation=8)
+- 🦁 I'm a member of Likelion, Sogang.
 
 <!-- ![jaenny's github stats](https://github-readme-stats.vercel.app/api?username=jaenny) -->
 
