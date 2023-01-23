@@ -1,7 +1,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjaenny&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ### Hi there, I'm jaenny 👋
-- 🔭 I’m currently studying in Sogang University, Korea.
-- 🌱 I’m currently learning Economics, Computer science.
+- 👩🏻‍💻 I'm working in Naver-Financial as a front-end developer.
+- 🔭 I studied in Sogang University, Korea.
 - 🦁 I'm a member of Likelion, Sogang. ![8th](https://likelion-badge.herokuapp.com/api/likelion_shield_badge?generation=8)
 
 <!-- ![jaenny's github stats](https://github-readme-stats.vercel.app/api?username=jaenny) -->
